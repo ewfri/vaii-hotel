@@ -102,6 +102,11 @@ img {
     float: left;
     text-align: center;
 }
+@media only screen and (max-width: 769px) {
+    .listok {
+        width: 99.5%;
+    }
+}
 
 .listok-content {
     position: relative;
